@@ -1,3 +1,3 @@
-data/*.csv
+data/**/*
 *.pyc
 notebook/.ipynb_checkpoints/
